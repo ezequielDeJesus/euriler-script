@@ -42,15 +42,4 @@
         }
       ]
     }
-  ],
-  "rewrites": [
-    {
-      "source": "/feed",
-      "destination": "/feed/index.html"
-    },
-    {
-      "source": "/comments/feed",
-      "destination": "/comments/feed/index.html"
-    }
-  ]
-}
+  }
